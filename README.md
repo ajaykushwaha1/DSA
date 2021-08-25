@@ -1,2 +1,2 @@
 # DSA
-Fundamental of Data Structure and Algorithms
+Fundamentals of Data Structure and Algorithms
